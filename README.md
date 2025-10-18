@@ -1,4 +1,3 @@
-![Texto alternativo para o banner](https://github.com/silviocarlosas/Readme/blob/main/banner-notebook.jpg)
 ![Banner do Perfil de Silvio Carlos](https://github.com/silviocarlosas/Readme/blob/main/banner-notebook.jpg?raw=true)
 # Olá, me chamo Silvio Carlos! 👋
 
